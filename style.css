@@ -8,13 +8,13 @@
 	--gutter: 30px;
 	--side-small: 40;
 	--side-big: 40;
-	--depth: 4900px;
+	--depth: 4800px;
 	--transition: .75s cubic-bezier(.075, .5, 0, 1)
 }
 
 @media (min-width: 1981px) {
 	:root {
-		--depth: 5600px;
+		--depth: 5500px;
 	}
 }
 
